@@ -2,6 +2,8 @@
 
 💻 Welcome to the "Open Source Models with Hugging Face" course! Instructed by Maria Khalusova, Marc Sun, and Younes Belkada, all Machine Learning Engineers at Hugging Face, this course will equip you with the skills to leverage open-source models from Hugging Face Hub for various NLP, audio, image, and multimodal tasks.
 
+## 🤗 [Hugging Face Library](https://huggingface.co/docs/hub/en/index)
+
 ## Course Summary
 In this course, you'll learn how to harness the power of open-source models available on Hugging Face Hub for a wide range of tasks in NLP, audio, image, and multimodal domains. Here's what you can expect to learn and experience:
 
